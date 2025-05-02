@@ -9,7 +9,7 @@ nodeJS+NPM
 clone reposity 
 https://github.com/pymumu/smartdns
 
-enter to directory
+enter to directory smartdns
 create pkg-config dir
 mkdir pkg-config
 
